@@ -6,4 +6,4 @@ This is a Text based Adventure Game I made in C++ using the original game made i
 
 This was  Project to Help me learn and understand the syntax and and how to use C++.
 
-I'm Currently using this knowledge to understand C++ so that I can start getting in to embedded software.
+I'm Currently using this knowledge to understand C++ so that I can start getting in to embedded software. 
