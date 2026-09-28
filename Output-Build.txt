@@ -1,0 +1,6 @@
+﻿Build started at 3:40 PM...
+1>------ Build started: Project: Oregon2025, Configuration: Debug x64 ------
+1>Oregon2025.cpp
+1>Oregon2025.vcxproj -> C:\Users\jackg\OneDrive\Oregon2025\x64\Debug\Oregon2025.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:40 PM and took 02.282 seconds ==========

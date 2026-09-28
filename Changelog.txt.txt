@@ -1,0 +1,5 @@
+version 0.1.1
+- added a prompt for user intruction
+
+version 0.1.0
+- Begin project
